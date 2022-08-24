@@ -8,7 +8,7 @@ import android.widget.Button
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.tugas_tiga)
+        setContentView(R.layout.tugas_empat)
 
 //        val btnLinier = findViewById<Button>(R.id.btnLinier)
 //        val btnRelative = findViewById<Button>(R.id.btnRelative)
